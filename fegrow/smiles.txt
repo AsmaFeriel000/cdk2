@@ -1,0 +1,16 @@
+Brc1cccc(Nc2nc(OCC3CCCCC3)c3nc[nH]c3n2)c1
+CNS(=O)(=O)c1ccc(Nc2nc(OCC3CCCCC3)c3nc[nH]c3n2)cc1
+CSc1cccc(Nc2nc(OCC3CCCCC3)c3nc[nH]c3n2)c1
+CS(=O)(=O)c1ccc(Nc2nc(OCC3CCCCC3)c3nc[nH]c3n2)cc1
+Clc1cccc(Nc2nc(OCC3CCCCC3)c3nc[nH]c3n2)c1
+NS(=O)(=O)c1ccc(Nc2nc(OCC3CCCCC3)c3nc[nH]c3n2)cc1
+COc1cccc(Nc2nc(OCC3CCCCC3)c3nc[nH]c3n2)c1
+NC(=O)c1ccc(Nc2nc(OCC3CCCCC3)c3nc[nH]c3n2)cc1
+NS(=O)(=O)c1cccc(Nc2nc(OCC3CCCCC3)c3nc[nH]c3n2)c1
+C[S@](=O)c1ccc(Nc2nc(OCC3CCCCC3)c3nc[nH]c3n2)cc1
+CN(C)S(=O)(=O)c1ccc(Nc2nc(OCC3CCCCC3)c3nc[nH]c3n2)cc1
+COc1ccc(Nc2nc(OCC3CCCCC3)c3nc[nH]c3n2)cc1
+Oc1ccc(Nc2nc(OCC3CCCCC3)c3nc[nH]c3n2)cc1
+OCc1cccc(Nc2nc(OCC3CCCCC3)c3nc[nH]c3n2)c1
+COc1cc(Nc2nc(OCC3CCCCC3)c3nc[nH]c3n2)ccc1S(N)(=O)=O
+c1ccc(Nc2nc(OCC3CCCCC3)c3nc[nH]c3n2)cc1
